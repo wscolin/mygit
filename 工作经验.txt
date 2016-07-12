@@ -198,4 +198,3 @@ grant dba to ldrksys;
      <parameterMap class="map" id="Tbsbsjscbmmap">
 	    <parameter property="result" jdbcType="VARCHAR" javaType="java.lang.String" mode="OUT" />
 		<parameter property="gxdwbm" jdbcType="VARCHAR" javaType="java.lang.String" mode="IN"/>
-     </parameterMap>
